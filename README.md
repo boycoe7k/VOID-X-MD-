@@ -11,9 +11,12 @@
 </div>
 
 VOID-X-MD is a WhatsApp MD bot built on top of the **Baileys** library.  
-It’s designed to be fast, lightweight, and easy to customize without touching the core code.  
+It's designed to be fast, lightweight, and easy to customize without touching the core code.  
 This project is **fully open source** — you can modify it, rebrand it, and make your **own bot** from this codebase **free of cost**, without needing any permission from our side.  
 All commands and the overall structure are written in a way that makes customization (bot image, prefix, name, features, etc.) as easy as possible.
+
+📢 **Official Channel:** [Join VOID-X-MD on WhatsApp](https://whatsapp.com/channel/0029VbBxPYN2kNFj3I1H1e0f)
+👤 **Owner:** +263716808196
 
 ---
 
@@ -44,12 +47,12 @@ All commands and the overall structure are written in a way that makes customiza
 
 ### 2. Get Pair Code
 
-Deploy a small helper to generate a **pair code** and obtain your session string.
+Deploy a small helper to generate a **pair code** and obtain your session string, or use our hosted pairing site.
 
 <div align="center">
 
 <a href="https://whatsapp.com/channel/0029VbBxPYN2kNFj3I1H1e0f" target="_blank">
-  <img src="https://img.shields.io/badge/Generate-Pair%20Code-blueviolet?style=for-the-badge" alt="Generate Pair Code">
+  <img src="https://img.shields.io/badge/Join-Our%20Channel-25D366?style=for-the-badge&logo=whatsapp" alt="Join Channel">
 </a>
 
 </div>
@@ -140,12 +143,8 @@ When the bot starts:
 
 <div align="center">
 
-<a href="https://t.me/+3QhFUZHx-nhhZmY1" target="_blank">
-  <img src="https://img.shields.io/badge/Join-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram">
-</a>
-
-<a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A" target="_blank">
-  <img src="https://img.shields.io/badge/Join-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp Channel">
+<a href="https://whatsapp.com/channel/0029VbBxPYN2kNFj3I1H1e0f" target="_blank">
+  <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp Channel">
 </a>
 
 </div>
@@ -154,8 +153,9 @@ When the bot starts:
 
 ## 🙏 Credits
 
-- **Mr Unique Hacker** – Main developer & maintainer  
-- **Baileys** – WhatsApp Web API library (`@whiskeysockets/baileys`)  
+- **Boycoe-dev** – Main developer & maintainer
+- **Tcroneb Hackx** – Co-developer & maintainer
+- **Baileys** – WhatsApp Web API library (`@whiskeysockets/baileys`)
 - Other open‑source libraries listed in `package.json`
 
 ---
