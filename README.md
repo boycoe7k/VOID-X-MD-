@@ -35,7 +35,7 @@ All commands and the overall structure are written in a way that makes customiza
 
 <div align="center">
 
-<a href="https://github.com/Boycoe-dev/VOID-X-MD/fork" target="_blank">
+<a href="https://github.com/boycoe7k/VOID-X-MD-/fork" target="_blank">
   <img src="https://img.shields.io/badge/Fork%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Fork on GitHub">
 </a>
 
@@ -98,7 +98,7 @@ For a full step‑by‑step deployment tutorial (panels / VPS / Heroku), add or 
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/Boycoe-dev/VOID-X-MD.git
+git clone https://github.com/boycoe7k/VOID-X-MD-.git
 cd VOID-X-MD
 ```
 
@@ -160,21 +160,21 @@ When the bot starts:
 
 ---
 
-## ☕ Support Me
+## 🇿🇼Support Me
 
 <div align="center">
 
 <a href="https://buymeacoffee.com/Boycoe-dev" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Developer-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Developer-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Join My Channel">
 </a>
 
 </div>
 
-If you find this project helpful and want to support the developer, consider buying me a coffee! Your support helps maintain and improve this open-source project.
+If you find this project helpful and want to support the developer, consider joining my channel your support helps maintain and improve this open-source project.
 
 <div align="center">
 
-<img src="utils/bmc_qr.png" alt="Buy Me a Coffee QR Code" width="200">
+<img src="utils/bmc_qr.png" alt="Buy Me a Channel Qr Code" width="200">
 
 </div>
 
@@ -217,7 +217,7 @@ You must:
 
 ## 📜 Copyright Notice
 
-Copyright (c) **2026 Tcroneb Hackx**.  
+Copyright (c) **2026 Boycoe-dev x Tcroneb Hackx**.  
 All rights reserved.
 
 This project contains code from various open‑source projects and AI tools, including but not limited to:

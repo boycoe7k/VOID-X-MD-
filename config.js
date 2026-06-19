@@ -14,7 +14,7 @@ module.exports = {
     sessionID: process.env.SESSION_ID || '',
     newsletterJid: '263716808196@newsletter',
     newsletterLink: 'https://whatsapp.com/channel/0029VbBxPYN2kNFj3I1H1e0f',
-    updateZipUrl: 'https://github.com/Boycoe-dev/VOID-X-MD/archive/refs/heads/main.zip',
+    updateZipUrl: 'https://github.com/boycoe7k/VOID-X-MD-/archive/refs/heads/main.zip',
     
     // Sticker Configuration
     packname: 'VOID-X-MD',
