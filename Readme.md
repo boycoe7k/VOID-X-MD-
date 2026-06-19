@@ -228,7 +228,7 @@ You must:
 
 ## 📜 Copyright Notice
 
-Copyright (c) **2026 Tcroneb Hackx**.  
+Copyright (c) **2026 Boycoe-dev**.  
 All rights reserved.
 
 This project contains code from various open‑source projects and AI tools, including but not limited to:
